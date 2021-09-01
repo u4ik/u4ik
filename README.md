@@ -2,7 +2,7 @@
 <!-- <hr> -->
 <div align="center">
 
-<a href="https://www.linkedin.com/in/amitsmangat/"><img src="https://img.shields.io/badge/-Amit%20Mangat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amitsmangat/" alt="Join Community Badge"/></a>
+<a href="https://www.linkedin.com/in/amitsmangat/" target="_blank"><img src="https://img.shields.io/badge/-Amit%20Mangat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amitsmangat/" alt="Join Community Badge"/></a>
   
 <!--  <img src='https://img.shields.io/github/followers/u4ik?label=Follow&style=social'> -->
 <!-- <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a> -->
