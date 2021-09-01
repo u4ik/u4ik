@@ -1,11 +1,18 @@
-<h1 align="center">Welcome
+<h1 align="center">Welcome</h1>
 <!-- <hr> -->
+  
+  <div align="center">
+  <h4>Technologies</h4>
+ <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black&style=plastic"/>
+  
+ <img src="https://img.shields.io/badge/-Python-F7D756?logo=python&logoColor=black&style=plastic"/>
+  
+  <img src="https://img.shields.io/badge/-Node-87BF00?logo=nodedotjs&logoColor=white&style=plastic"/>
+  
 <div align="center">
-
+  <h4>Connect</h4>
 <a style="text-decoration:none" href="https://www.linkedin.com/in/amitsmangat/" target="_blank">
-  
 <img src="https://img.shields.io/badge/-Amit%20Mangat-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amitsmangat/" alt="Join Community Badge"/>
-  
 </a>
 
 <!--  <img src='https://img.shields.io/github/followers/u4ik?label=Follow&style=social'> -->
