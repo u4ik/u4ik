@@ -2,12 +2,12 @@
 <!-- <hr> -->
 <div align="center">
 
-<a href="https://www.linkedin.com/in/amitsmangat/" target=_blank>
+<!-- <a href="https://www.linkedin.com/in/amitsmangat/" target="_blank"> -->
   
 <img src="https://img.shields.io/badge/-Amit%20Mangat-blue?style=flat-square&logo=Linkedin&logoColor=white&target=_blank" alt="Join Community Badge"/>
   
-</a>
-  
+<!-- </a> -->
+
  <img src='https://img.shields.io/github/followers/u4ik?label=Follow&style=social'>
 <!-- <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a> -->
 <!-- <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
