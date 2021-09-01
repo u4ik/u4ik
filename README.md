@@ -2,7 +2,7 @@
 <!-- <hr> -->
 <div align="center">
 
-<a style='text-decoration:none'href="https://www.linkedin.com/in/amitsmangat/" target="_blank">
+<a style="text-decoration:none" href="https://www.linkedin.com/in/amitsmangat/" target="_blank">
   
 <img src="https://img.shields.io/badge/-Amit%20Mangat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amitsmangat/" alt="Join Community Badge"/>
   
