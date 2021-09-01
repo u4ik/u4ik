@@ -3,8 +3,8 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/amitsmangat/" target="_blank">
-  open
-<!--   <img src="https://img.shields.io/badge/-Amit%20Mangat-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Join Community Badge"/> -->
+
+  <img src="https://img.shields.io/badge/-Amit%20Mangat-blue?style=flat-square&logo=Linkedin&logoColor=white?target=_blank"" alt="Join Community Badge"/>
   
   </a>
   
