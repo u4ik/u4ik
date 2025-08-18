@@ -1,19 +1,11 @@
-<div style="">
+<div style="display:flex;">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://i.ibb.co/4ZfWvn4j/amit.gif" alt="u4ik avatar" width="160" />
-    </td>
-    <td align="left">
-      <img src="https://i.ibb.co/78qHXrc/pixel-speech-bubble.gif" alt="speech bubble" width="160" height="80" />
-      <br><br>
-      <br><br>
-    </td>
-      <td></td>
-  </tr>
-</table>
 
+<img src="https://i.ibb.co/4ZfWvn4j/amit.gif" alt="u4ik avatar" width="160" />
+
+<img src="https://i.ibb.co/78qHXrc/pixel-speech-bubble.gif" alt="speech bubble" width="160" height="80" />
+
+</div>
 # Hi there, I’m Amit 👋
 
 I’m a full-stack developer who loves building clean, intuitive, and scalable digital experiences.  
