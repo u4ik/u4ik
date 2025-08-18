@@ -15,6 +15,7 @@ jobs:
 
       - name: Generate SVG (example step)
         run: |
+          mkdir -p assets
           echo '<svg xmlns="http://www.w3.org/2000/svg" width="200" height="50">
             <text x="10" y="25" font-size="20" fill="blue">Hello SVG</text>
           </svg>' > assets/mygraphic.svg
