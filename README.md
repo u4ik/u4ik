@@ -6,6 +6,7 @@
 <img src="https://i.ibb.co/9mgfRwH0/pixel-speech-bubble-1.gif" alt="speech bubble" width="360" height="200" />
 
 </div>
+
 # Hi there, I’m Amit 👋
 
 I’m a full-stack developer who loves building clean, intuitive, and scalable digital experiences.  
