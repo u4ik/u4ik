@@ -1,3 +1,9 @@
+<div style="display:flex;">
+
+<img style="width:10em" src="https://i.ibb.co/4ZfWvn4j/amit.gif" alt="u4ik's Top Languages">
+<img style="max-width:10em; max-height:5em;margin-right:5em;position:absolute;left:10em;" src="https://i.ibb.co/78qHXrc/pixel-speech-bubble.gif" alt="u4ik's Top Languages">
+</div>
+
 # Hi there, I’m Amit 👋
 
 I’m a full-stack developer who loves building clean, intuitive, and scalable digital experiences.  
