@@ -1,35 +1,39 @@
-name: Update README with SVG
+name: generate breakout svg
 
 on:
   schedule:
-    - cron: "0 * * * *" # runs every hour (adjust as needed)
-  workflow_dispatch: # lets you run it manually from Actions tab
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
 
 jobs:
-  update-readme:
+  generate-svg:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate SVG (example step)
-        run: |
-          mkdir -p assets
-          echo '<svg xmlns="http://www.w3.org/2000/svg" width="200" height="50">
-            <text x="10" y="25" font-size="20" fill="blue">Hello SVG</text>
-          </svg>' > assets/mygraphic.svg
+      - name: generate SVG
+        uses: cyprieng/github-breakout@v1.0.0
+        with:
+          github_username: ${{ github.repository_owner }}
 
-      - name: Update README
+      - name: Move generated SVGs
         run: |
-          if ! grep -q "assets/mygraphic.svg" README.md; then
-            echo -e "\n![SVG](assets/mygraphic.svg)" >> README.md
-          fi
+          mkdir -p images
+          mv output/light.svg images/breakout-light.svg
+          mv output/dark.svg images/breakout-dark.svg
 
-      - name: Commit and push
+      - name: Configure git
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md assets/mygraphic.svg
-          git commit -m "Update SVG in README" || echo "No changes to commit"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push SVGs
+        run: |
+          git add images/breakout-light.svg images/breakout-dark.svg
+          git commit -m "chore: update breakout SVGs" || echo "No changes to commit"
           git push
