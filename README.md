@@ -1,12 +1,16 @@
+<div style="">
 
 <table>
   <tr>
     <td>
       <img src="https://i.ibb.co/4ZfWvn4j/amit.gif" alt="u4ik avatar" width="160" />
     </td>
-    <td style="vertical-align: top;">
+    <td align="left">
       <img src="https://i.ibb.co/78qHXrc/pixel-speech-bubble.gif" alt="speech bubble" width="160" height="80" />
+      <br><br>
+      <br><br>
     </td>
+      <td></td>
   </tr>
 </table>
 
@@ -17,18 +21,18 @@ Most of my work lives in the JavaScript and Python ecosystems, but I also enjoy 
 
 💻 **What I work on:**
 
-- Full-stack web apps 
+- Full-stack web apps
 - Command-line tools, automation scripts, & software
 - APIs, integrations, and data-driven projects
 - Python & Localized LLMs
 - Algorithmic Trading
 
 ✨ **What drives me:**  
-    I enjoy solving problems, designing seamless user experiences, and bringing creative ideas to life. Whether it’s a social media platform for fishkeepers 🐠, a property management tool, algorithmic bots, or CLI apps that make developers’ lives easier, I like building projects that are practical and fun.
+ I enjoy solving problems, designing seamless user experiences, and bringing creative ideas to life. Whether it’s a social media platform for fishkeepers 🐠, a property management tool, algorithmic bots, or CLI apps that make developers’ lives easier, I like building projects that are practical and fun.
 
 📂 **Check out my projects below**, and feel free to connect if you’d like to collaborate or chat tech!
-<div align="" style="display: flex; flex-direction: column; align-items: center; height:30">
 
+<div align="" style="display: flex; flex-direction: column; align-items: center; height:30">
 
 <!-- GitHub Stats Images -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u4ik&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="u4ik's Top Languages">
