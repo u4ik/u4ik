@@ -1,8 +1,14 @@
-<div style="">
 
-<img style="width:10em" src="https://i.ibb.co/4ZfWvn4j/amit.gif" alt="u4ik avatar">
-<img style="width:10em; height:5em;margin-right:5em;position:absolute;left:10em;" src="https://i.ibb.co/78qHXrc/pixel-speech-bubble.gif" alt="speech bubble">
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://i.ibb.co/4ZfWvn4j/amit.gif" alt="u4ik avatar" width="160" />
+    </td>
+    <td style="vertical-align: top;">
+      <img src="https://i.ibb.co/78qHXrc/pixel-speech-bubble.gif" alt="speech bubble" width="160" height="80" />
+    </td>
+  </tr>
+</table>
 
 # Hi there, I’m Amit 👋
 
