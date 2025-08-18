@@ -22,9 +22,9 @@ Most of my work lives in the JavaScript and Python ecosystems, but I also enjoy 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u4ik&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="u4ik's Top Languages">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=u4ik&theme=vue-dark&hide_border=true" alt="u4ik's Streak">
 
-<!--     <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"> -->
-</div>
+<!-- <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"> -->
 
+</div>
 <!--   <h4>Connect</h4> -->
 <!-- <a style="text-decoration:none" href="https://www.linkedin.com/in/amitsmangat/" target="_blank"> -->
 <!-- <img src="https://img.shields.io/badge/-Amit%20Mangat-blue?style=plastic&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/amitsmangat/" alt="Join Community Badge"/> -->
@@ -47,3 +47,5 @@ Most of my work lives in the JavaScript and Python ecosystems, but I also enjoy 
   />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
+
+[![hits](https://hits.deltapapa.io/github/u4ik/u4ik.svg)](https://hits.deltapapa.io)
