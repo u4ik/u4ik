@@ -1,7 +1,7 @@
 <div style="display:flex;">
 
-<img style="width:10em" src="https://i.ibb.co/4ZfWvn4j/amit.gif" alt="u4ik's Top Languages">
-<img style="max-width:5em; max-height:5em;margin-right:5em;position:absolute;left:10em;" src="https://i.ibb.co/78qHXrc/pixel-speech-bubble.gif" alt="u4ik's Top Languages">
+<img style="width:10em" src="https://i.ibb.co/4ZfWvn4j/amit.gif" alt="u4ik avatar">
+<img style="width:5em; height:5em;margin-right:5em;position:absolute;left:10em;" src="https://i.ibb.co/78qHXrc/pixel-speech-bubble.gif" alt="speech bubble">
 </div>
 
 # Hi there, I’m Amit 👋
