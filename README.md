@@ -3,7 +3,7 @@
 
 <img src="https://i.ibb.co/4ZfWvn4j/amit.gif" alt="u4ik avatar" width="160" />
 
-<img src="https://i.ibb.co/9mgfRwH0/pixel-speech-bubble-1.gif" alt="speech bubble" width="260" height="100" />
+<img src="https://i.ibb.co/9mgfRwH0/pixel-speech-bubble-1.gif" alt="speech bubble" width="360" height="200" />
 
 </div>
 # Hi there, I’m Amit 👋
