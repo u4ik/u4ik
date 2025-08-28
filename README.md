@@ -7,14 +7,14 @@
 
 </div>
 
-# Hi there, I’m Amit 👋
+
 
 
 <div align="" style="display: flex; flex-direction: column; align-items: center; height:30">
 
 <!-- GitHub Stats Images -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u4ik&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="u4ik's Top Languages">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=u4ik&theme=vue-dark&hide_border=true" alt="u4ik's Streak">
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=u4ik&theme=vue-dark&hide_border=true" alt="u4ik's Streak"> -->
 
 <!-- <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"> -->
 
