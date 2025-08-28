@@ -9,21 +9,6 @@
 
 # Hi there, I’m Amit 👋
 
-I’m a full-stack developer who loves building clean, intuitive, and scalable digital experiences.  
-Most of my work lives in the JavaScript and Python ecosystems, but I also enjoy exploring other technologies when a project calls for it.
-
-💻 **What I work on:**
-
-- Full-stack web apps
-- Command-line tools, automation scripts, & software
-- APIs, integrations, and data-driven projects
-- Python & Localized LLMs
-- Algorithmic Trading
-
-✨ **What drives me:**  
- I enjoy solving problems, designing seamless user experiences, and bringing creative ideas to life. Whether it’s a social media platform for fishkeepers 🐠, a property management tool, algorithmic bots, or CLI apps that make developers’ lives easier, I like building projects that are practical and fun.
-
-📂 **Check out my projects below**, and feel free to connect if you’d like to collaborate or chat tech!
 
 <div align="" style="display: flex; flex-direction: column; align-items: center; height:30">
 
