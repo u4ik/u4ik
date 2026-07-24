@@ -1,4 +1,4 @@
-<div style="display:flex; justify-content:center;">
+<!-- <div style="display:flex; justify-content:center;">
 
 
 <img src="https://i.ibb.co/4ZfWvn4j/amit.gif" alt="u4ik avatar" width="90" />
@@ -6,7 +6,7 @@
 <img src="https://i.ibb.co/9mgfRwH0/pixel-speech-bubble-1.gif" alt="speech bubble" width="180" height="180" />
 
 </div>
-
+ -->
 
 
 
